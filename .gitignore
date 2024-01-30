@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+
+# Build output
+/build/
+/dist/
+
+# Dependency directories
+/bower_components/
+
+# Express.js generated files
+*.log
+
+# React.js build output
+/.idea/
+/.vscode/
+/.DS_Store
+/public/
+/build/
+
+# MongoDB
+*.db
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# npm package logs
+npm-debug.log
+yarn-error.log
