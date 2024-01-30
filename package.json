@@ -1,0 +1,20 @@
+{
+    "name": "fyle-assignment",
+    "version": "1.0.0",
+    "description": "This is made for Fyle",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "AwnishShahi",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "dotenv": "^16.4.1",
+        "ejs": "^3.1.9",
+        "express": "^4.18.2",
+        "lodash": "^4.17.21"
+    }
+}
